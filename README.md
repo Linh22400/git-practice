@@ -1,2 +1,1 @@
-# Git Practice
-Giới thiệu: Tôi là Nguyễn Hồng Linh, MSSV 224217.
+Đây là README từ nhánh main.
